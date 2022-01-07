@@ -1,0 +1,23 @@
+.contimg{
+    background-image:url(kerala1.jpg.jpeg);   
+   
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+     color: white;
+     padding: 30px;
+ }
+ .con{
+    width: 70%;
+    background-color: #c2e1f0;
+       border-radius: 15px;
+           
+        text-align: center;
+}
+.btn1{
+        
+    background-color: #043142;
+    color: white;
+    border-radius: 15px;
+    padding: 12px 28px;
+}

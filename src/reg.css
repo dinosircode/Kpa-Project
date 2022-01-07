@@ -1,0 +1,52 @@
+reg.css
+Today
+12:28 PM
+
+You uploaded an item
+Style Sheet
+reg.css
+.btn{
+        
+        background-color: #6e6e6e;
+        color: white;
+        border-radius: 15px;
+        padding: 12px 28px;
+}
+.personal{
+    color: white;
+    font-family: sans-serif;
+
+}
+.studimg{
+        background-image: url('kerala1.jpg.jpeg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        padding: 25px;
+}
+.contentimg{
+    width: 70%;
+       border-radius: 15px;
+        background-color: rgb(223, 223, 223);    
+        text-align: center;
+}
+input[type=text] {
+    width: 30%;
+    padding: 5px 10px;
+    resize: vertical;
+    border-radius: 2px;
+  }
+  textarea {
+    width: 45%;
+    height: 100px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+  }
+  label {
+   font-size: medium;
+    color: black;
+  }

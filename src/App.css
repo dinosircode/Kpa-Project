@@ -1,0 +1,182 @@
+.App {
+  text-align: left;
+}
+.BrownBackground{
+  overflow: hidden;
+  padding-top: 0px;
+  padding-right: 1px;
+  padding-bottom: 0px;
+  padding-left: 40px;
+  background-color: #94874aeb;
+
+}
+.BrownBackground img
+{
+  width:18px;
+  height:18px;
+}
+#titile{
+
+  color: #00008B;
+
+  font-family: sansation;
+}
+#whitetext{
+
+  color: white;
+  font-family: sansation;
+}
+#rightpos
+{
+  float: right;
+  
+}
+#leftpos
+{
+  float:left;
+  margin-left:6%;
+  color: white;
+  
+}
+
+#contactpos
+{
+  float: left;
+  margin-left:15%;
+  color: white;
+  
+}
+#contactposses
+{
+  float: left;
+  margin-left:15%;
+  color: white;
+ 
+}
+#rightposc
+{
+  float: right;
+  margin-right:8%;
+  color: white;
+}
+#downloadpos
+{
+  float: right;
+
+  margin-right:10%;
+  
+}
+#HeaderMains
+{
+  overflow: hidden;
+  padding-top: 0px;
+  padding-right: 1px;
+  padding-bottom: 0px;
+  padding-left: 40px;
+ 
+}
+.Kplogo
+{
+  width:85px;
+  height:90px;
+}
+.govlog
+{
+  float: right;
+  margin-right: 45px;
+  width:100px;
+  height:90px;
+}
+#HeadTittleMains
+{
+  overflow: hidden;
+  padding-top: 0px;
+  padding-right: 1px;
+  padding-bottom: 0px;
+  padding-left: 40px;
+  width:100%;
+  height:280px;
+  background-color: #204060;
+}
+#FooterMains
+{
+  overflow: hidden;
+  padding-top: 0px;
+  padding-right: 1px;
+  padding-bottom: 0px;
+  padding-left: 40px;
+  width:100%;
+  height:400px;
+  background-color: #38383C;
+}
+#headstu
+{
+  color: white;
+}
+#TableFoot
+{
+  float: center;
+  margin-right:50px;
+  margin-left:200px;
+  margin-top:10px;
+}
+#TableFoot img
+{
+  margin-right:60px;
+  
+}
+#titilSe
+{
+    font-size: 30px;
+    color: #fff9f2;
+
+}
+#Foot2nd
+{
+
+  margin-top:60px;
+   margin-left:110px;
+}
+.FootLogo
+{
+   width:230px;
+  height:100px;
+}
+#HeadFoot
+{
+  font-size: 25px;
+  color: yellow;
+
+}
+#whitefontfoot
+{
+  font-size: 15px;
+  color: white;
+}
+#BenithFoot
+{
+  overflow: hidden;
+  padding-top: 0px;
+  padding-right: 1px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  width:100%;
+  height:100px;
+  background-color: #151525;
+}
+#lastdi
+{
+
+  font-size: 15px;
+  color: #85867F;
+}
+.Appslogo
+{
+  width:100%;
+  height:350px;
+}
+#LinkColor
+{
+
+  color:white;
+}

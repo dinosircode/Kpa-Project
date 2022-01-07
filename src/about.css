@@ -1,0 +1,21 @@
+.abtimg{
+  
+    background-image:url(kerala1.jpg.jpeg);   
+   
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    padding: 30px;
+    font-size:  350%;
+}
+.head{
+    color: white;
+    font-size: 100%;
+    font-family: sans-serif;
+}
+.para{
+    font-size:  100%;
+    font-family: sans-serif;
+    text-align: left;
+}
